@@ -1,0 +1,1 @@
+function e(e){let t=e.deviceKind===`hr`||e.deviceKind===`altius`||e.deviceKind===`dafit`||e.deviceKind===`fitpro`,n=t?null:e.bandAddress,r=e.hrAddress||(t?e.bandAddress:null);return!!(n||r)}function t(e){return!!e.bikeAddress}function n(e){return e.bikeAutoCapture===!0&&t(e)}function r(t){return t.hrActivityAutoDetect===!0&&e(t)}export{e as i,t as n,r,n as t};
