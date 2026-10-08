@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SynthFit — TV</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        background: #e7efe8;
+        color: #1f332c;
+      }
+    </style>
+    <script src="https://www.gstatic.com/cast/sdk/libs/caf_receiver/v3/cast_receiver_framework.js"></script>
+    <script>
+      // Cast aborts the launch (session_error) if the receiver doesn't start
+      // quickly, so start CAF before the app bundle parses. Messages are buffered
+      // until the app attaches. Namespace must match TV_DISPLAY_NAMESPACE.
+      ;(function () {
+        if (new URLSearchParams(location.search).get('t')) return
+        var framework = window.cast && window.cast.framework
+        if (!framework || !framework.CastReceiverContext) return
+        var ns = 'urn:x-cast:online.synthfit.fit.display'
+        var tvCast = { context: null, pending: [], onMessage: null }
+        try {
+          var context = framework.CastReceiverContext.getInstance()
+          context.addCustomMessageListener(ns, function (event) {
+            var data = event && event.data !== undefined ? event.data : event
+            if (tvCast.onMessage) tvCast.onMessage(data)
+            else tvCast.pending.push(data)
+          })
+          var options = new framework.CastReceiverOptions()
+          options.disableIdleTimeout = true
+          if (framework.system && framework.system.MessageType) {
+            options.customNamespaces = {}
+            options.customNamespaces[ns] = framework.system.MessageType.JSON
+          }
+          context.start(options)
+          tvCast.context = context
+          window.__tvCast = tvCast
+        } catch (err) {
+          console.warn('Cast receiver init failed', err)
+        }
+      })()
+    </script>
+    <script type="module" crossorigin src="/assets/tv-CeVAalQk.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/tv-C3K5ucLn.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
