@@ -4,49 +4,49 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 634,
+  "totalSec": 578,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.45
     },
     {
       "index": 1,
       "text": "Take time to arrive.",
       "file": "c001.ogg",
-      "durationSec": 3.888
+      "durationSec": 2.83
     },
     {
       "index": 2,
       "text": "Sit or lie down with support.",
       "file": "c002.ogg",
-      "durationSec": 4.512
+      "durationSec": 3.352
     },
     {
       "index": 3,
       "text": "Close the eyes if that feels safe.",
       "file": "c003.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.873
     },
     {
       "index": 4,
       "text": "Feel contact with the ground.",
       "file": "c004.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.243
     },
     {
       "index": 5,
       "text": "Slow breath in.",
       "file": "c005.ogg",
-      "durationSec": 3.384
+      "durationSec": 2.134
     },
     {
       "index": 6,
       "text": "Longer breath out.",
       "file": "c006.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.305
     },
     {
       "index": 7,
@@ -59,7 +59,7 @@
       "index": 8,
       "text": "Again.",
       "file": "c008.ogg",
-      "durationSec": 2.616
+      "durationSec": 1.32
     },
     {
       "index": 9,
@@ -72,13 +72,13 @@
       "index": 10,
       "text": "Let the shoulders drop.",
       "file": "c010.ogg",
-      "durationSec": 3.696
+      "durationSec": 2.537
     },
     {
       "index": 11,
       "text": "Let the belly soften.",
       "file": "c011.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.537
     },
     {
       "index": 12,
@@ -91,13 +91,13 @@
       "index": 13,
       "text": "Anxiety may still be here. That is allowed.",
       "file": "c013.ogg",
-      "durationSec": 8.016
+      "durationSec": 5.215
     },
     {
       "index": 14,
       "text": "We are not fighting it. We are befriending the body.",
       "file": "c014.ogg",
-      "durationSec": 7.656
+      "durationSec": 5.614
     },
     {
       "index": 15,
@@ -110,13 +110,13 @@
       "index": 16,
       "text": "Press the feet gently into the floor.",
       "file": "c016.ogg",
-      "durationSec": 5.016
+      "durationSec": 4.172
     },
     {
       "index": 17,
       "text": "Feel the floor press back.",
       "file": "c017.ogg",
-      "durationSec": 4.248
+      "durationSec": 3.059
     },
     {
       "index": 18,
@@ -129,13 +129,13 @@
       "index": 19,
       "text": "Name three things you can see behind closed eyes, or with soft gaze.",
       "file": "c019.ogg",
-      "durationSec": 8.424
+      "durationSec": 7.356
     },
     {
       "index": 20,
       "text": "Dark. Light. Shape of eyelids.",
       "file": "c020.ogg",
-      "durationSec": 8.352
+      "durationSec": 3.644
     },
     {
       "index": 21,
@@ -148,13 +148,13 @@
       "index": 22,
       "text": "Name three sensations.",
       "file": "c022.ogg",
-      "durationSec": 4.416
+      "durationSec": 2.947
     },
     {
       "index": 23,
       "text": "Clothes. Temperature. Breath.",
       "file": "c023.ogg",
-      "durationSec": 7.872
+      "durationSec": 3.821
     },
     {
       "index": 24,
@@ -167,19 +167,19 @@
       "index": 25,
       "text": "Breathe in for four.",
       "file": "c025.ogg",
-      "durationSec": 3.504
+      "durationSec": 2.484
     },
     {
       "index": 26,
       "text": "Hold for two.",
       "file": "c026.ogg",
-      "durationSec": 3.168
+      "durationSec": 2.01
     },
     {
       "index": 27,
       "text": "Out for six.",
       "file": "c027.ogg",
-      "durationSec": 3.216
+      "durationSec": 1.962
     },
     {
       "index": 28,
@@ -192,7 +192,7 @@
       "index": 29,
       "text": "Again.",
       "file": "c029.ogg",
-      "durationSec": 2.616
+      "durationSec": 1.203
     },
     {
       "index": 30,
@@ -205,19 +205,19 @@
       "index": 31,
       "text": "Place a hand on the chest or belly.",
       "file": "c031.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.64
     },
     {
       "index": 32,
       "text": "Feel movement under the hand.",
       "file": "c032.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.467
     },
     {
       "index": 33,
       "text": "Say quietly: right now, I am breathing.",
       "file": "c033.ogg",
-      "durationSec": 6.672
+      "durationSec": 4.686
     },
     {
       "index": 34,
@@ -230,13 +230,13 @@
       "index": 35,
       "text": "If the mind races ahead, thank it for trying to protect you.",
       "file": "c035.ogg",
-      "durationSec": 6.96
+      "durationSec": 6.078
     },
     {
       "index": 36,
       "text": "Then return to this breath.",
       "file": "c036.ogg",
-      "durationSec": 4.152
+      "durationSec": 2.888
     },
     {
       "index": 37,
@@ -249,13 +249,13 @@
       "index": 38,
       "text": "Scan the face. Soften.",
       "file": "c038.ogg",
-      "durationSec": 5.88
+      "durationSec": 3.066
     },
     {
       "index": 39,
       "text": "Scan the hands. Soften.",
       "file": "c039.ogg",
-      "durationSec": 6.048
+      "durationSec": 3.291
     },
     {
       "index": 40,
@@ -268,7 +268,7 @@
       "index": 41,
       "text": "Rest in the rhythm of longer exhales.",
       "file": "c041.ogg",
-      "durationSec": 5.328
+      "durationSec": 4.22
     },
     {
       "index": 42,
@@ -281,7 +281,7 @@
       "index": 43,
       "text": "You have given the nervous system a wider shore.",
       "file": "c043.ogg",
-      "durationSec": 5.664
+      "durationSec": 4.978
     },
     {
       "index": 44,
@@ -301,33 +301,37 @@
       "index": 46,
       "text": "Begin to deepen the breath.",
       "file": "c046.ogg",
-      "durationSec": 4.056
+      "durationSec": 2.776
     },
     {
       "index": 47,
       "text": "Feel the room again.",
       "file": "c047.ogg",
-      "durationSec": 3.528
+      "durationSec": 2.364
     },
     {
       "index": 48,
       "text": "Wiggle fingers and toes.",
       "file": "c048.ogg",
-      "durationSec": 4.296
+      "durationSec": 2.945
     },
     {
       "index": 49,
       "text": "When ready, open the eyes.",
       "file": "c049.ogg",
-      "durationSec": 4.92
+      "durationSec": 3.066
     },
     {
       "index": 50,
       "text": "Move slowly into what comes next.",
       "file": "c050.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.943
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

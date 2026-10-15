@@ -4,55 +4,55 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 321,
+  "totalSec": 286,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.496
     },
     {
       "index": 1,
       "text": "Find a comfortable seat, or lie down if that feels better.",
       "file": "c001.ogg",
-      "durationSec": 7.104
+      "durationSec": 6.256
     },
     {
       "index": 2,
       "text": "Let the hands rest.",
       "file": "c002.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.546
     },
     {
       "index": 3,
       "text": "Soften the eyes, or close them.",
       "file": "c003.ogg",
-      "durationSec": 4.896
+      "durationSec": 3.523
     },
     {
       "index": 4,
       "text": "Take a slow breath in.",
       "file": "c004.ogg",
-      "durationSec": 3.744
+      "durationSec": 2.779
     },
     {
       "index": 5,
       "text": "And a longer breath out.",
       "file": "c005.ogg",
-      "durationSec": 3.912
+      "durationSec": 2.665
     },
     {
       "index": 6,
       "text": "Bring to mind one small thing that helped you today, or this week.",
       "file": "c006.ogg",
-      "durationSec": 7.632
+      "durationSec": 7.058
     },
     {
       "index": 7,
       "text": "It can be ordinary. Warm water. A message. Light on a wall.",
       "file": "c007.ogg",
-      "durationSec": 12.456
+      "durationSec": 7.421
     },
     {
       "index": 8,
@@ -65,13 +65,13 @@
       "index": 9,
       "text": "Hold it gently in awareness.",
       "file": "c009.ogg",
-      "durationSec": 4.392
+      "durationSec": 3.296
     },
     {
       "index": 10,
       "text": "Notice any softening in the chest or face.",
       "file": "c010.ogg",
-      "durationSec": 5.832
+      "durationSec": 4.685
     },
     {
       "index": 11,
@@ -84,13 +84,13 @@
       "index": 12,
       "text": "Silently, thank this one thing.",
       "file": "c012.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.408
     },
     {
       "index": 13,
       "text": "Thank you for being here.",
       "file": "c013.ogg",
-      "durationSec": 3.792
+      "durationSec": 2.595
     },
     {
       "index": 14,
@@ -103,7 +103,7 @@
       "index": 15,
       "text": "Now a second thing. Another small good.",
       "file": "c015.ogg",
-      "durationSec": 7.08
+      "durationSec": 4.332
     },
     {
       "index": 16,
@@ -116,7 +116,7 @@
       "index": 17,
       "text": "Thank you.",
       "file": "c017.ogg",
-      "durationSec": 2.64
+      "durationSec": 1.5
     },
     {
       "index": 18,
@@ -129,7 +129,7 @@
       "index": 19,
       "text": "And one more. A third.",
       "file": "c019.ogg",
-      "durationSec": 5.808
+      "durationSec": 3.006
     },
     {
       "index": 20,
@@ -142,7 +142,7 @@
       "index": 21,
       "text": "Let gratitude be simple. Not forced. Just noticed.",
       "file": "c021.ogg",
-      "durationSec": 10.296
+      "durationSec": 6.428
     },
     {
       "index": 22,
@@ -155,7 +155,7 @@
       "index": 23,
       "text": "Rest in that warmth for a few breaths.",
       "file": "c023.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.993
     },
     {
       "index": 24,
@@ -168,27 +168,31 @@
       "index": 25,
       "text": "Take one more easy breath.",
       "file": "c025.ogg",
-      "durationSec": 4.488
+      "durationSec": 2.656
     },
     {
       "index": 26,
       "text": "Wiggle the fingers.",
       "file": "c026.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.249
     },
     {
       "index": 27,
       "text": "When you are ready, open the eyes.",
       "file": "c027.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.872
     },
     {
       "index": 28,
       "text": "Carry a little of this with you.",
       "file": "c028.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.118
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

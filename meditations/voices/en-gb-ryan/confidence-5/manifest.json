@@ -4,55 +4,55 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 314,
+  "totalSec": 284,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.432
     },
     {
       "index": 1,
       "text": "Find a comfortable seat, or lie down if that feels better.",
       "file": "c001.ogg",
-      "durationSec": 7.104
+      "durationSec": 6.022
     },
     {
       "index": 2,
       "text": "Let the hands rest.",
       "file": "c002.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.188
     },
     {
       "index": 3,
       "text": "Soften the eyes, or close them.",
       "file": "c003.ogg",
-      "durationSec": 4.896
+      "durationSec": 3.707
     },
     {
       "index": 4,
       "text": "Take a slow breath in.",
       "file": "c004.ogg",
-      "durationSec": 3.744
+      "durationSec": 2.824
     },
     {
       "index": 5,
       "text": "And a longer breath out.",
       "file": "c005.ogg",
-      "durationSec": 3.912
+      "durationSec": 2.662
     },
     {
       "index": 6,
       "text": "Feel the sit bones, or the feet.",
       "file": "c006.ogg",
-      "durationSec": 5.232
+      "durationSec": 3.936
     },
     {
       "index": 7,
       "text": "A steady base beneath you.",
       "file": "c007.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.008
     },
     {
       "index": 8,
@@ -65,13 +65,13 @@
       "index": 9,
       "text": "Lengthen the spine without hardening.",
       "file": "c009.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.937
     },
     {
       "index": 10,
       "text": "Soft face. Soft belly. Strong center.",
       "file": "c010.ogg",
-      "durationSec": 9.12
+      "durationSec": 5.329
     },
     {
       "index": 11,
@@ -84,13 +84,13 @@
       "index": 12,
       "text": "Silently try these phrases, or just listen.",
       "file": "c012.ogg",
-      "durationSec": 6.264
+      "durationSec": 4.57
     },
     {
       "index": 13,
       "text": "I can meet what is mine to meet.",
       "file": "c013.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.173
     },
     {
       "index": 14,
@@ -103,7 +103,7 @@
       "index": 15,
       "text": "I do not need to rush my becoming.",
       "file": "c015.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.661
     },
     {
       "index": 16,
@@ -116,7 +116,7 @@
       "index": 17,
       "text": "I trust my next honest step.",
       "file": "c017.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.698
     },
     {
       "index": 18,
@@ -129,7 +129,7 @@
       "index": 19,
       "text": "Breathe confidence as warmth in the chest, not as armor.",
       "file": "c019.ogg",
-      "durationSec": 6.96
+      "durationSec": 6.141
     },
     {
       "index": 20,
@@ -142,7 +142,7 @@
       "index": 21,
       "text": "See yourself handling one ordinary challenge with steadiness.",
       "file": "c021.ogg",
-      "durationSec": 7.032
+      "durationSec": 6.254
     },
     {
       "index": 22,
@@ -155,13 +155,13 @@
       "index": 23,
       "text": "Return to the breath.",
       "file": "c023.ogg",
-      "durationSec": 3.696
+      "durationSec": 2.545
     },
     {
       "index": 24,
       "text": "Steady. Enough.",
       "file": "c024.ogg",
-      "durationSec": 5.088
+      "durationSec": 2.365
     },
     {
       "index": 25,
@@ -174,27 +174,31 @@
       "index": 26,
       "text": "Take one more easy breath.",
       "file": "c026.ogg",
-      "durationSec": 4.488
+      "durationSec": 2.944
     },
     {
       "index": 27,
       "text": "Wiggle the fingers.",
       "file": "c027.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.135
     },
     {
       "index": 28,
       "text": "When you are ready, open the eyes.",
       "file": "c028.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.64
     },
     {
       "index": 29,
       "text": "Carry a little of this with you.",
       "file": "c029.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.005
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

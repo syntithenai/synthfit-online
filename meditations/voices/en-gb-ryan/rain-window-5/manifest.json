@@ -4,55 +4,55 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 312,
+  "totalSec": 287,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.492
     },
     {
       "index": 1,
       "text": "Find a comfortable seat, or lie down if that feels better.",
       "file": "c001.ogg",
-      "durationSec": 7.104
+      "durationSec": 6.03
     },
     {
       "index": 2,
       "text": "Let the hands rest.",
       "file": "c002.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.537
     },
     {
       "index": 3,
       "text": "Soften the eyes, or close them.",
       "file": "c003.ogg",
-      "durationSec": 4.896
+      "durationSec": 3.822
     },
     {
       "index": 4,
       "text": "Take a slow breath in.",
       "file": "c004.ogg",
-      "durationSec": 3.744
+      "durationSec": 2.666
     },
     {
       "index": 5,
       "text": "And a longer breath out.",
       "file": "c005.ogg",
-      "durationSec": 3.912
+      "durationSec": 2.662
     },
     {
       "index": 6,
       "text": "Imagine sitting by a window on a quiet rainy day.",
       "file": "c006.ogg",
-      "durationSec": 6.696
+      "durationSec": 5.672
     },
     {
       "index": 7,
       "text": "Glass cool. World soft outside.",
       "file": "c007.ogg",
-      "durationSec": 7.032
+      "durationSec": 5.093
     },
     {
       "index": 8,
@@ -65,13 +65,13 @@
       "index": 9,
       "text": "Hear the rain without needing a story.",
       "file": "c009.ogg",
-      "durationSec": 4.8
+      "durationSec": 4.222
     },
     {
       "index": 10,
       "text": "Small taps. Occasional heavier falls.",
       "file": "c010.ogg",
-      "durationSec": 7.56
+      "durationSec": 5.04
     },
     {
       "index": 11,
@@ -84,13 +84,13 @@
       "index": 12,
       "text": "Smell clean damp air.",
       "file": "c012.ogg",
-      "durationSec": 3.936
+      "durationSec": 3.291
     },
     {
       "index": 13,
       "text": "See grey light, gentle and unhurried.",
       "file": "c013.ogg",
-      "durationSec": 5.808
+      "durationSec": 4.395
     },
     {
       "index": 14,
@@ -103,13 +103,13 @@
       "index": 15,
       "text": "There is nowhere to go in the rain.",
       "file": "c015.ogg",
-      "durationSec": 4.56
+      "durationSec": 3.466
     },
     {
       "index": 16,
       "text": "Permission to pause.",
       "file": "c016.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.535
     },
     {
       "index": 17,
@@ -122,7 +122,7 @@
       "index": 18,
       "text": "Breathe with the rhythm of water on the glass.",
       "file": "c018.ogg",
-      "durationSec": 5.52
+      "durationSec": 4.574
     },
     {
       "index": 19,
@@ -135,7 +135,7 @@
       "index": 20,
       "text": "Let the nervous system take the cue: soften.",
       "file": "c020.ogg",
-      "durationSec": 5.976
+      "durationSec": 4.866
     },
     {
       "index": 21,
@@ -148,27 +148,31 @@
       "index": 22,
       "text": "Take one more easy breath.",
       "file": "c022.ogg",
-      "durationSec": 4.488
+      "durationSec": 2.779
     },
     {
       "index": 23,
       "text": "Wiggle the fingers.",
       "file": "c023.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.248
     },
     {
       "index": 24,
       "text": "When you are ready, open the eyes.",
       "file": "c024.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.822
     },
     {
       "index": 25,
       "text": "Carry a little of this with you.",
       "file": "c025.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.111
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

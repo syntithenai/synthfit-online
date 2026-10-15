@@ -4,31 +4,31 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 319,
+  "totalSec": 287,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.437
     },
     {
       "index": 1,
       "text": "If you feel scattered or activated, this practice can help.",
       "file": "c001.ogg",
-      "durationSec": 7.248
+      "durationSec": 6.197
     },
     {
       "index": 2,
       "text": "Keep the eyes open for now, if that feels safer.",
       "file": "c002.ogg",
-      "durationSec": 6.216
+      "durationSec": 5.151
     },
     {
       "index": 3,
       "text": "Plant both feet on the floor.",
       "file": "c003.ogg",
-      "durationSec": 4.32
+      "durationSec": 3.289
     },
     {
       "index": 4,
@@ -41,13 +41,13 @@
       "index": 5,
       "text": "Name five things you can see.",
       "file": "c005.ogg",
-      "durationSec": 4.608
+      "durationSec": 3.111
     },
     {
       "index": 6,
       "text": "Quietly. Take your time.",
       "file": "c006.ogg",
-      "durationSec": 6.096
+      "durationSec": 3.638
     },
     {
       "index": 7,
@@ -60,13 +60,13 @@
       "index": 8,
       "text": "Name four things you can feel or touch.",
       "file": "c008.ogg",
-      "durationSec": 5.328
+      "durationSec": 4.224
     },
     {
       "index": 9,
       "text": "Clothes. Chair. Air on skin. Feet on floor.",
       "file": "c009.ogg",
-      "durationSec": 11.472
+      "durationSec": 6.486
     },
     {
       "index": 10,
@@ -79,13 +79,13 @@
       "index": 11,
       "text": "Name three sounds.",
       "file": "c011.ogg",
-      "durationSec": 3.936
+      "durationSec": 2.427
     },
     {
       "index": 12,
       "text": "Near or far. Soft or clear.",
       "file": "c012.ogg",
-      "durationSec": 6.384
+      "durationSec": 4.04
     },
     {
       "index": 13,
@@ -98,7 +98,7 @@
       "index": 14,
       "text": "Name two scents, or simply notice the quality of the air.",
       "file": "c014.ogg",
-      "durationSec": 7.224
+      "durationSec": 6.257
     },
     {
       "index": 15,
@@ -111,7 +111,7 @@
       "index": 16,
       "text": "Name one taste, or the feeling inside the mouth.",
       "file": "c016.ogg",
-      "durationSec": 6.648
+      "durationSec": 5.217
     },
     {
       "index": 17,
@@ -124,19 +124,19 @@
       "index": 18,
       "text": "You are here. In this body. In this room.",
       "file": "c018.ogg",
-      "durationSec": 8.856
+      "durationSec": 5.096
     },
     {
       "index": 19,
       "text": "Breathe in for four.",
       "file": "c019.ogg",
-      "durationSec": 3.504
+      "durationSec": 2.43
     },
     {
       "index": 20,
       "text": "Out for six.",
       "file": "c020.ogg",
-      "durationSec": 3.216
+      "durationSec": 1.841
     },
     {
       "index": 21,
@@ -149,27 +149,31 @@
       "index": 22,
       "text": "Take one more easy breath.",
       "file": "c022.ogg",
-      "durationSec": 4.488
+      "durationSec": 2.763
     },
     {
       "index": 23,
       "text": "Wiggle the fingers.",
       "file": "c023.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.248
     },
     {
       "index": 24,
       "text": "When you are ready, open the eyes.",
       "file": "c024.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.874
     },
     {
       "index": 25,
       "text": "Carry a little of this with you.",
       "file": "c025.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.062
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

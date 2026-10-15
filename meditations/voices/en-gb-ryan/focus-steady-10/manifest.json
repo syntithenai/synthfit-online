@@ -4,49 +4,49 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 622,
+  "totalSec": 589,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.433
     },
     {
       "index": 1,
       "text": "Take time to arrive.",
       "file": "c001.ogg",
-      "durationSec": 3.888
+      "durationSec": 2.769
     },
     {
       "index": 2,
       "text": "Sit or lie down with support.",
       "file": "c002.ogg",
-      "durationSec": 4.512
+      "durationSec": 3.411
     },
     {
       "index": 3,
       "text": "Close the eyes if that feels safe.",
       "file": "c003.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.939
     },
     {
       "index": 4,
       "text": "Feel contact with the ground.",
       "file": "c004.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.126
     },
     {
       "index": 5,
       "text": "Slow breath in.",
       "file": "c005.ogg",
-      "durationSec": 3.384
+      "durationSec": 2.247
     },
     {
       "index": 6,
       "text": "Longer breath out.",
       "file": "c006.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.261
     },
     {
       "index": 7,
@@ -59,7 +59,7 @@
       "index": 8,
       "text": "Again.",
       "file": "c008.ogg",
-      "durationSec": 2.616
+      "durationSec": 1.432
     },
     {
       "index": 9,
@@ -72,13 +72,13 @@
       "index": 10,
       "text": "Let the shoulders drop.",
       "file": "c010.ogg",
-      "durationSec": 3.696
+      "durationSec": 2.478
     },
     {
       "index": 11,
       "text": "Let the belly soften.",
       "file": "c011.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.598
     },
     {
       "index": 12,
@@ -91,13 +91,13 @@
       "index": 13,
       "text": "Choose the breath at the nostrils as your point.",
       "file": "c013.ogg",
-      "durationSec": 5.568
+      "durationSec": 4.688
     },
     {
       "index": 14,
       "text": "Stay with the feeling of air.",
       "file": "c014.ogg",
-      "durationSec": 4.08
+      "durationSec": 3.007
     },
     {
       "index": 15,
@@ -110,13 +110,13 @@
       "index": 16,
       "text": "Count each exhale from one to ten.",
       "file": "c016.ogg",
-      "durationSec": 4.968
+      "durationSec": 4.34
     },
     {
       "index": 17,
       "text": "If you lose the count, begin again at one without blame.",
       "file": "c017.ogg",
-      "durationSec": 6.816
+      "durationSec": 5.958
     },
     {
       "index": 18,
@@ -129,7 +129,7 @@
       "index": 19,
       "text": "One.",
       "file": "c019.ogg",
-      "durationSec": 2.376
+      "durationSec": 1.082
     },
     {
       "index": 20,
@@ -142,7 +142,7 @@
       "index": 21,
       "text": "Two.",
       "file": "c021.ogg",
-      "durationSec": 2.4
+      "durationSec": 1.268
     },
     {
       "index": 22,
@@ -155,7 +155,7 @@
       "index": 23,
       "text": "Three.",
       "file": "c023.ogg",
-      "durationSec": 2.592
+      "durationSec": 1.317
     },
     {
       "index": 24,
@@ -168,7 +168,7 @@
       "index": 25,
       "text": "Four.",
       "file": "c025.ogg",
-      "durationSec": 2.496
+      "durationSec": 1.26
     },
     {
       "index": 26,
@@ -181,7 +181,7 @@
       "index": 27,
       "text": "Five.",
       "file": "c027.ogg",
-      "durationSec": 2.784
+      "durationSec": 1.152
     },
     {
       "index": 28,
@@ -194,7 +194,7 @@
       "index": 29,
       "text": "Continue silently to ten, then start at one.",
       "file": "c029.ogg",
-      "durationSec": 6.408
+      "durationSec": 5.439
     },
     {
       "index": 30,
@@ -207,13 +207,13 @@
       "index": 31,
       "text": "Release the counting.",
       "file": "c031.ogg",
-      "durationSec": 3.6
+      "durationSec": 2.423
     },
     {
       "index": 32,
       "text": "Rest in bare attention on the breath.",
       "file": "c032.ogg",
-      "durationSec": 4.944
+      "durationSec": 4.048
     },
     {
       "index": 33,
@@ -226,7 +226,7 @@
       "index": 34,
       "text": "Clarity without hardness.",
       "file": "c034.ogg",
-      "durationSec": 4.32
+      "durationSec": 2.946
     },
     {
       "index": 35,
@@ -246,13 +246,13 @@
       "index": 37,
       "text": "Begin to deepen the breath.",
       "file": "c037.ogg",
-      "durationSec": 4.056
+      "durationSec": 2.845
     },
     {
       "index": 38,
       "text": "Rest here.",
       "file": "c038.ogg",
-      "durationSec": 2.928
+      "durationSec": 1.664
     },
     {
       "index": 39,
@@ -265,27 +265,31 @@
       "index": 40,
       "text": "Feel the room again.",
       "file": "c040.ogg",
-      "durationSec": 3.528
+      "durationSec": 2.413
     },
     {
       "index": 41,
       "text": "Wiggle fingers and toes.",
       "file": "c041.ogg",
-      "durationSec": 4.296
+      "durationSec": 2.943
     },
     {
       "index": 42,
       "text": "When ready, open the eyes.",
       "file": "c042.ogg",
-      "durationSec": 4.92
+      "durationSec": 3.291
     },
     {
       "index": 43,
       "text": "Move slowly into what comes next.",
       "file": "c043.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.877
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

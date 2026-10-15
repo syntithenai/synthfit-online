@@ -1,0 +1,1 @@
+var e=new Map,t=e=>e.replace(/^\.\//,``).replace(/^\//,``).replace(/\?.*$/,``);function n(n,r){e.set(t(n),r)}function r(n){return e.get(t(n))}function i(n){return e.has(t(n))}var a=new Set;function o(e){for(let t of a)t(e)}function s(e){return a.add(e),()=>a.delete(e)}export{o as a,n as i,s as n,r,i as t};

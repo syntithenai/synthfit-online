@@ -1,0 +1,1 @@
+import{t as e}from"./dist-Bkzel0jJ.js";function t(){try{return e.isNativePlatform()}catch{return!1}}function n(){try{return e.getPlatform()}catch{return`web`}}function r(){return typeof navigator>`u`||navigator.onLine!==!1}export{r as n,t as r,n as t};

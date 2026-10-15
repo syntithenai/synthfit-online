@@ -1,0 +1,4 @@
+{
+  "map": "{\"issuedAt\":1791780105027,\"packs\":[\"https://syntithenai.github.io/yogapp-audio/v1\",\"https://raw.githubusercontent.com/syntithenai/yogapp-audio/main/v1\"],\"resolver\":[],\"v\":1,\"voicePacks\":[\"https://syntithenai.github.io/yogapp-audio-{voice}/v1\",\"https://raw.githubusercontent.com/syntithenai/yogapp-audio-{voice}/main/v1\"]}",
+  "sig": "qLw7uk9Kc0r3RHLx9RKM2Y8FqT167qK2kD+PcCewV5IojLrrmFp5SzkPItrVXODlijMhFviLGIQ81AkfeLbuCg=="
+}

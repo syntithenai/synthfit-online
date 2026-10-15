@@ -1,0 +1,34 @@
+{
+ "version": "v1",
+ "character": "joe",
+ "glb": "joe_anny.glb?h=07afc4b4f8ac",
+ "palette": {
+  "skin": [
+   232,
+   188,
+   154
+  ],
+  "top": [
+   32,
+   46,
+   82
+  ],
+  "bottom": [
+   58,
+   59,
+   66
+  ],
+  "hair": [
+   84,
+   54,
+   32
+  ]
+ },
+ "poses": {},
+ "transitions": {},
+ "motion": {
+  "sf-bb-back-squat": "motion/sf-bb-back-squat.json?h=ed969a7b3d86",
+  "sf-bb-bench-press": "motion/sf-bb-bench-press.json?h=899c9cef8876",
+  "sf-cable-lat-pulldown": "motion/sf-cable-lat-pulldown.json?h=630e56405feb"
+ }
+}

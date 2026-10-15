@@ -4,49 +4,49 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 652,
+  "totalSec": 590,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.493
     },
     {
       "index": 1,
       "text": "Take time to arrive.",
       "file": "c001.ogg",
-      "durationSec": 3.888
+      "durationSec": 2.597
     },
     {
       "index": 2,
       "text": "Sit or lie down with support.",
       "file": "c002.ogg",
-      "durationSec": 4.512
+      "durationSec": 3.476
     },
     {
       "index": 3,
       "text": "Close the eyes if that feels safe.",
       "file": "c003.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.871
     },
     {
       "index": 4,
       "text": "Feel contact with the ground.",
       "file": "c004.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.294
     },
     {
       "index": 5,
       "text": "Slow breath in.",
       "file": "c005.ogg",
-      "durationSec": 3.384
+      "durationSec": 2.197
     },
     {
       "index": 6,
       "text": "Longer breath out.",
       "file": "c006.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.296
     },
     {
       "index": 7,
@@ -59,7 +59,7 @@
       "index": 8,
       "text": "Again.",
       "file": "c008.ogg",
-      "durationSec": 2.616
+      "durationSec": 1.433
     },
     {
       "index": 9,
@@ -72,13 +72,13 @@
       "index": 10,
       "text": "Let the shoulders drop.",
       "file": "c010.ogg",
-      "durationSec": 3.696
+      "durationSec": 2.592
     },
     {
       "index": 11,
       "text": "Let the belly soften.",
       "file": "c011.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.546
     },
     {
       "index": 12,
@@ -91,13 +91,13 @@
       "index": 13,
       "text": "Begin at the crown of the head.",
       "file": "c013.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.065
     },
     {
       "index": 14,
       "text": "Notice sensation, or the lack of it.",
       "file": "c014.ogg",
-      "durationSec": 5.304
+      "durationSec": 4.047
     },
     {
       "index": 15,
@@ -110,13 +110,13 @@
       "index": 16,
       "text": "Forehead. Eyes. Cheeks. Jaw.",
       "file": "c016.ogg",
-      "durationSec": 10.32
+      "durationSec": 4.214
     },
     {
       "index": 17,
       "text": "Let the face melt a little.",
       "file": "c017.ogg",
-      "durationSec": 4.008
+      "durationSec": 2.942
     },
     {
       "index": 18,
@@ -129,13 +129,13 @@
       "index": 19,
       "text": "Throat. Neck. Shoulders.",
       "file": "c019.ogg",
-      "durationSec": 7.704
+      "durationSec": 3.117
     },
     {
       "index": 20,
       "text": "Invite the shoulders to drop.",
       "file": "c020.ogg",
-      "durationSec": 4.272
+      "durationSec": 3.241
     },
     {
       "index": 21,
@@ -148,7 +148,7 @@
       "index": 22,
       "text": "Arms. Elbows. Wrists. Hands. Fingers.",
       "file": "c022.ogg",
-      "durationSec": 13.368
+      "durationSec": 4.916
     },
     {
       "index": 23,
@@ -161,13 +161,13 @@
       "index": 24,
       "text": "Chest rising and falling.",
       "file": "c024.ogg",
-      "durationSec": 4.08
+      "durationSec": 2.889
     },
     {
       "index": 25,
       "text": "Heart space soft.",
       "file": "c025.ogg",
-      "durationSec": 3.696
+      "durationSec": 2.596
     },
     {
       "index": 26,
@@ -180,7 +180,7 @@
       "index": 27,
       "text": "Belly. Low back. Hips.",
       "file": "c027.ogg",
-      "durationSec": 7.368
+      "durationSec": 3.287
     },
     {
       "index": 28,
@@ -193,7 +193,7 @@
       "index": 29,
       "text": "Thighs. Knees. Calves. Ankles. Feet. Toes.",
       "file": "c029.ogg",
-      "durationSec": 15.552
+      "durationSec": 5.729
     },
     {
       "index": 30,
@@ -206,13 +206,13 @@
       "index": 31,
       "text": "Sense the whole body as one field.",
       "file": "c031.ogg",
-      "durationSec": 5.016
+      "durationSec": 3.988
     },
     {
       "index": 32,
       "text": "Breath moving through it.",
       "file": "c032.ogg",
-      "durationSec": 3.816
+      "durationSec": 2.661
     },
     {
       "index": 33,
@@ -225,7 +225,7 @@
       "index": 34,
       "text": "If a tense place remains, send an exhale there.",
       "file": "c034.ogg",
-      "durationSec": 6.096
+      "durationSec": 5.496
     },
     {
       "index": 35,
@@ -238,7 +238,7 @@
       "index": 36,
       "text": "Rest in whole-body awareness.",
       "file": "c036.ogg",
-      "durationSec": 4.56
+      "durationSec": 3.408
     },
     {
       "index": 37,
@@ -258,33 +258,37 @@
       "index": 39,
       "text": "Begin to deepen the breath.",
       "file": "c039.ogg",
-      "durationSec": 4.056
+      "durationSec": 2.825
     },
     {
       "index": 40,
       "text": "Feel the room again.",
       "file": "c040.ogg",
-      "durationSec": 3.528
+      "durationSec": 2.543
     },
     {
       "index": 41,
       "text": "Wiggle fingers and toes.",
       "file": "c041.ogg",
-      "durationSec": 4.296
+      "durationSec": 2.543
     },
     {
       "index": 42,
       "text": "When ready, open the eyes.",
       "file": "c042.ogg",
-      "durationSec": 4.92
+      "durationSec": 3.059
     },
     {
       "index": 43,
       "text": "Move slowly into what comes next.",
       "file": "c043.ogg",
-      "durationSec": 5.184
+      "durationSec": 4.004
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

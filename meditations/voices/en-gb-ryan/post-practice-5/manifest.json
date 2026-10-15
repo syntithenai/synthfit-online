@@ -4,31 +4,31 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 299,
+  "totalSec": 276,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.492
     },
     {
       "index": 1,
       "text": "You have practiced. Now let the body receive it.",
       "file": "c001.ogg",
-      "durationSec": 7.56
+      "durationSec": 5.441
     },
     {
       "index": 2,
       "text": "Lie down or sit with ease.",
       "file": "c002.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.066
     },
     {
       "index": 3,
       "text": "Close the eyes.",
       "file": "c003.ogg",
-      "durationSec": 3.336
+      "durationSec": 2.133
     },
     {
       "index": 4,
@@ -41,13 +41,13 @@
       "index": 5,
       "text": "Scan for warmth, vibration, or quiet fatigue.",
       "file": "c005.ogg",
-      "durationSec": 7.224
+      "durationSec": 5.676
     },
     {
       "index": 6,
       "text": "No grading. Just notice.",
       "file": "c006.ogg",
-      "durationSec": 6.24
+      "durationSec": 3.292
     },
     {
       "index": 7,
@@ -60,13 +60,13 @@
       "index": 8,
       "text": "Long exhale.",
       "file": "c008.ogg",
-      "durationSec": 3.264
+      "durationSec": 2.197
     },
     {
       "index": 9,
       "text": "Again.",
       "file": "c009.ogg",
-      "durationSec": 2.616
+      "durationSec": 1.379
     },
     {
       "index": 10,
@@ -79,7 +79,7 @@
       "index": 11,
       "text": "Thank the body for showing up.",
       "file": "c011.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.121
     },
     {
       "index": 12,
@@ -92,7 +92,7 @@
       "index": 13,
       "text": "Let effort drain into the floor.",
       "file": "c013.ogg",
-      "durationSec": 4.608
+      "durationSec": 3.822
     },
     {
       "index": 14,
@@ -105,13 +105,13 @@
       "index": 15,
       "text": "One clear breath in.",
       "file": "c015.ogg",
-      "durationSec": 3.744
+      "durationSec": 2.599
     },
     {
       "index": 16,
       "text": "One complete breath out.",
       "file": "c016.ogg",
-      "durationSec": 3.984
+      "durationSec": 2.657
     },
     {
       "index": 17,
@@ -124,27 +124,31 @@
       "index": 18,
       "text": "Take one more easy breath.",
       "file": "c018.ogg",
-      "durationSec": 4.488
+      "durationSec": 2.599
     },
     {
       "index": 19,
       "text": "Wiggle the fingers.",
       "file": "c019.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.197
     },
     {
       "index": 20,
       "text": "When you are ready, open the eyes.",
       "file": "c020.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.697
     },
     {
       "index": 21,
       "text": "Carry a little of this with you.",
       "file": "c021.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.122
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

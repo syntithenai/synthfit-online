@@ -4,25 +4,25 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 926,
+  "totalSec": 889,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome to a practice for sleep.",
       "file": "c000.ogg",
-      "durationSec": 4.512
+      "durationSec": 3.404
     },
     {
       "index": 1,
       "text": "Lie down. Make the dark your friend.",
       "file": "c001.ogg",
-      "durationSec": 6.888
+      "durationSec": 4.292
     },
     {
       "index": 2,
       "text": "You may fall asleep before the end. That is success.",
       "file": "c002.ogg",
-      "durationSec": 8.4
+      "durationSec": 5.727
     },
     {
       "index": 3,
@@ -35,13 +35,13 @@
       "index": 4,
       "text": "Slow breath in.",
       "file": "c004.ogg",
-      "durationSec": 3.384
+      "durationSec": 2.182
     },
     {
       "index": 5,
       "text": "Longer breath out.",
       "file": "c005.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.36
     },
     {
       "index": 6,
@@ -54,7 +54,7 @@
       "index": 7,
       "text": "Release the forehead.",
       "file": "c007.ogg",
-      "durationSec": 3.672
+      "durationSec": 2.43
     },
     {
       "index": 8,
@@ -67,7 +67,7 @@
       "index": 9,
       "text": "Release the eyes.",
       "file": "c009.ogg",
-      "durationSec": 3.6
+      "durationSec": 2.249
     },
     {
       "index": 10,
@@ -80,7 +80,7 @@
       "index": 11,
       "text": "Release the jaw and tongue.",
       "file": "c011.ogg",
-      "durationSec": 4.248
+      "durationSec": 3.174
     },
     {
       "index": 12,
@@ -93,7 +93,7 @@
       "index": 13,
       "text": "Shoulders melt.",
       "file": "c013.ogg",
-      "durationSec": 3.36
+      "durationSec": 2.069
     },
     {
       "index": 14,
@@ -106,7 +106,7 @@
       "index": 15,
       "text": "Arms heavy. Hands open.",
       "file": "c015.ogg",
-      "durationSec": 5.832
+      "durationSec": 3.18
     },
     {
       "index": 16,
@@ -119,7 +119,7 @@
       "index": 17,
       "text": "Chest soft. Belly soft.",
       "file": "c017.ogg",
-      "durationSec": 6.048
+      "durationSec": 3.293
     },
     {
       "index": 18,
@@ -132,7 +132,7 @@
       "index": 19,
       "text": "Hips heavy.",
       "file": "c019.ogg",
-      "durationSec": 2.832
+      "durationSec": 1.781
     },
     {
       "index": 20,
@@ -145,7 +145,7 @@
       "index": 21,
       "text": "Legs heavy. Feet heavy.",
       "file": "c021.ogg",
-      "durationSec": 5.616
+      "durationSec": 3.29
     },
     {
       "index": 22,
@@ -158,7 +158,7 @@
       "index": 23,
       "text": "The whole body sinking into the bed.",
       "file": "c023.ogg",
-      "durationSec": 4.848
+      "durationSec": 3.934
     },
     {
       "index": 24,
@@ -171,13 +171,13 @@
       "index": 25,
       "text": "Thoughts like distant traffic.",
       "file": "c025.ogg",
-      "durationSec": 4.272
+      "durationSec": 3.288
     },
     {
       "index": 26,
       "text": "You do not follow them.",
       "file": "c026.ogg",
-      "durationSec": 3.672
+      "durationSec": 2.358
     },
     {
       "index": 27,
@@ -190,7 +190,7 @@
       "index": 28,
       "text": "Breath quieter.",
       "file": "c028.ogg",
-      "durationSec": 3.36
+      "durationSec": 2.129
     },
     {
       "index": 29,
@@ -203,7 +203,7 @@
       "index": 30,
       "text": "Darker. Softer. Slower.",
       "file": "c030.ogg",
-      "durationSec": 7.512
+      "durationSec": 3.923
     },
     {
       "index": 31,
@@ -216,7 +216,7 @@
       "index": 32,
       "text": "Nothing to finish.",
       "file": "c032.ogg",
-      "durationSec": 3.456
+      "durationSec": 2.135
     },
     {
       "index": 33,
@@ -229,7 +229,7 @@
       "index": 34,
       "text": "Safe to rest.",
       "file": "c034.ogg",
-      "durationSec": 3.24
+      "durationSec": 1.836
     },
     {
       "index": 35,
@@ -242,7 +242,7 @@
       "index": 36,
       "text": "Safe to sleep.",
       "file": "c036.ogg",
-      "durationSec": 3.264
+      "durationSec": 2.019
     },
     {
       "index": 37,
@@ -255,7 +255,7 @@
       "index": 38,
       "text": "If you are still awake, keep resting in the exhale.",
       "file": "c038.ogg",
-      "durationSec": 6.264
+      "durationSec": 5.496
     },
     {
       "index": 39,
@@ -268,7 +268,7 @@
       "index": 40,
       "text": "Good night.",
       "file": "c040.ogg",
-      "durationSec": 2.832
+      "durationSec": 1.199
     },
     {
       "index": 41,
@@ -278,6 +278,10 @@
       "silence": true
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

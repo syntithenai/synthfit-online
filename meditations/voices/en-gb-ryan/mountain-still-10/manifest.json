@@ -4,49 +4,49 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 617,
+  "totalSec": 577,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.49
     },
     {
       "index": 1,
       "text": "Take time to arrive.",
       "file": "c001.ogg",
-      "durationSec": 3.888
+      "durationSec": 2.773
     },
     {
       "index": 2,
       "text": "Sit or lie down with support.",
       "file": "c002.ogg",
-      "durationSec": 4.512
+      "durationSec": 3.411
     },
     {
       "index": 3,
       "text": "Close the eyes if that feels safe.",
       "file": "c003.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.988
     },
     {
       "index": 4,
       "text": "Feel contact with the ground.",
       "file": "c004.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.18
     },
     {
       "index": 5,
       "text": "Slow breath in.",
       "file": "c005.ogg",
-      "durationSec": 3.384
+      "durationSec": 2.135
     },
     {
       "index": 6,
       "text": "Longer breath out.",
       "file": "c006.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.312
     },
     {
       "index": 7,
@@ -59,7 +59,7 @@
       "index": 8,
       "text": "Again.",
       "file": "c008.ogg",
-      "durationSec": 2.616
+      "durationSec": 1.38
     },
     {
       "index": 9,
@@ -72,13 +72,13 @@
       "index": 10,
       "text": "Let the shoulders drop.",
       "file": "c010.ogg",
-      "durationSec": 3.696
+      "durationSec": 2.592
     },
     {
       "index": 11,
       "text": "Let the belly soften.",
       "file": "c011.ogg",
-      "durationSec": 3.552
+      "durationSec": 2.543
     },
     {
       "index": 12,
@@ -91,13 +91,13 @@
       "index": 13,
       "text": "Imagine yourself as a mountain.",
       "file": "c013.ogg",
-      "durationSec": 4.56
+      "durationSec": 3.404
     },
     {
       "index": 14,
       "text": "Base wide. Peak quiet. Vast patience.",
       "file": "c014.ogg",
-      "durationSec": 9.696
+      "durationSec": 5.21
     },
     {
       "index": 15,
@@ -110,19 +110,19 @@
       "index": 16,
       "text": "Weather moves across the mountain.",
       "file": "c016.ogg",
-      "durationSec": 4.536
+      "durationSec": 3.361
     },
     {
       "index": 17,
       "text": "Sun. Wind. Cloud. Storm.",
       "file": "c017.ogg",
-      "durationSec": 8.688
+      "durationSec": 3.757
     },
     {
       "index": 18,
       "text": "The mountain remains.",
       "file": "c018.ogg",
-      "durationSec": 3.816
+      "durationSec": 2.546
     },
     {
       "index": 19,
@@ -135,13 +135,13 @@
       "index": 20,
       "text": "Thoughts and moods are weather.",
       "file": "c020.ogg",
-      "durationSec": 4.248
+      "durationSec": 3.298
     },
     {
       "index": 21,
       "text": "You are the mountain.",
       "file": "c021.ogg",
-      "durationSec": 3.264
+      "durationSec": 2.481
     },
     {
       "index": 22,
@@ -154,13 +154,13 @@
       "index": 23,
       "text": "Feel the base of your body rooted.",
       "file": "c023.ogg",
-      "durationSec": 4.92
+      "durationSec": 3.82
     },
     {
       "index": 24,
       "text": "Feel height in the spine without strain.",
       "file": "c024.ogg",
-      "durationSec": 5.232
+      "durationSec": 4.454
     },
     {
       "index": 25,
@@ -173,7 +173,7 @@
       "index": 26,
       "text": "Breathe as sky around the mountain.",
       "file": "c026.ogg",
-      "durationSec": 4.824
+      "durationSec": 3.877
     },
     {
       "index": 27,
@@ -186,7 +186,7 @@
       "index": 28,
       "text": "Steady. Unhurried. Enough.",
       "file": "c028.ogg",
-      "durationSec": 7.8
+      "durationSec": 3.707
     },
     {
       "index": 29,
@@ -206,33 +206,37 @@
       "index": 31,
       "text": "Begin to deepen the breath.",
       "file": "c031.ogg",
-      "durationSec": 4.056
+      "durationSec": 2.665
     },
     {
       "index": 32,
       "text": "Feel the room again.",
       "file": "c032.ogg",
-      "durationSec": 3.528
+      "durationSec": 2.476
     },
     {
       "index": 33,
       "text": "Wiggle fingers and toes.",
       "file": "c033.ogg",
-      "durationSec": 4.296
+      "durationSec": 2.946
     },
     {
       "index": 34,
       "text": "When ready, open the eyes.",
       "file": "c034.ogg",
-      "durationSec": 4.92
+      "durationSec": 3.118
     },
     {
       "index": 35,
       "text": "Move slowly into what comes next.",
       "file": "c035.ogg",
-      "durationSec": 5.184
+      "durationSec": 4.108
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

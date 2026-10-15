@@ -4,55 +4,55 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 300,
+  "totalSec": 275,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.494
     },
     {
       "index": 1,
       "text": "Find a comfortable seat, or lie down if that feels better.",
       "file": "c001.ogg",
-      "durationSec": 7.104
+      "durationSec": 5.959
     },
     {
       "index": 2,
       "text": "Let the hands rest.",
       "file": "c002.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.598
     },
     {
       "index": 3,
       "text": "Soften the eyes, or close them.",
       "file": "c003.ogg",
-      "durationSec": 4.896
+      "durationSec": 3.589
     },
     {
       "index": 4,
       "text": "Take a slow breath in.",
       "file": "c004.ogg",
-      "durationSec": 3.744
+      "durationSec": 2.715
     },
     {
       "index": 5,
       "text": "And a longer breath out.",
       "file": "c005.ogg",
-      "durationSec": 3.912
+      "durationSec": 2.366
     },
     {
       "index": 6,
       "text": "You do not need to pretend it was easy.",
       "file": "c006.ogg",
-      "durationSec": 5.016
+      "durationSec": 3.874
     },
     {
       "index": 7,
       "text": "Let the truth of tiredness be allowed.",
       "file": "c007.ogg",
-      "durationSec": 5.112
+      "durationSec": 4.107
     },
     {
       "index": 8,
@@ -65,13 +65,13 @@
       "index": 9,
       "text": "Breathe in care.",
       "file": "c009.ogg",
-      "durationSec": 3.264
+      "durationSec": 2.188
     },
     {
       "index": 10,
       "text": "Breathe out the demand to be fine.",
       "file": "c010.ogg",
-      "durationSec": 4.56
+      "durationSec": 3.777
     },
     {
       "index": 11,
@@ -84,13 +84,13 @@
       "index": 12,
       "text": "May I be gentle with myself tonight.",
       "file": "c012.ogg",
-      "durationSec": 5.328
+      "durationSec": 3.869
     },
     {
       "index": 13,
       "text": "May I rest as I am.",
       "file": "c013.ogg",
-      "durationSec": 3.96
+      "durationSec": 2.893
     },
     {
       "index": 14,
@@ -103,7 +103,7 @@
       "index": 15,
       "text": "May tomorrow ask only what I can give.",
       "file": "c015.ogg",
-      "durationSec": 5.232
+      "durationSec": 4.341
     },
     {
       "index": 16,
@@ -116,13 +116,13 @@
       "index": 17,
       "text": "Feel the body supported.",
       "file": "c017.ogg",
-      "durationSec": 4.152
+      "durationSec": 2.939
     },
     {
       "index": 18,
       "text": "Nothing more required in this minute.",
       "file": "c018.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.823
     },
     {
       "index": 19,
@@ -135,13 +135,13 @@
       "index": 20,
       "text": "Hand on heart, if it helps.",
       "file": "c020.ogg",
-      "durationSec": 4.776
+      "durationSec": 3.06
     },
     {
       "index": 21,
       "text": "You made it through.",
       "file": "c021.ogg",
-      "durationSec": 3.288
+      "durationSec": 2.133
     },
     {
       "index": 22,
@@ -154,27 +154,31 @@
       "index": 23,
       "text": "Take one more easy breath.",
       "file": "c023.ogg",
-      "durationSec": 4.488
+      "durationSec": 2.771
     },
     {
       "index": 24,
       "text": "Wiggle the fingers.",
       "file": "c024.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.25
     },
     {
       "index": 25,
       "text": "When you are ready, open the eyes.",
       "file": "c025.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.759
     },
     {
       "index": 26,
       "text": "Carry a little of this with you.",
       "file": "c026.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.062
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

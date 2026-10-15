@@ -4,49 +4,49 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 313,
+  "totalSec": 278,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.491
     },
     {
       "index": 1,
       "text": "Find a comfortable seat, or lie down if that feels better.",
       "file": "c001.ogg",
-      "durationSec": 7.104
+      "durationSec": 5.91
     },
     {
       "index": 2,
       "text": "Let the hands rest.",
       "file": "c002.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.595
     },
     {
       "index": 3,
       "text": "Soften the eyes, or close them.",
       "file": "c003.ogg",
-      "durationSec": 4.896
+      "durationSec": 3.871
     },
     {
       "index": 4,
       "text": "Take a slow breath in.",
       "file": "c004.ogg",
-      "durationSec": 3.744
+      "durationSec": 2.774
     },
     {
       "index": 5,
       "text": "And a longer breath out.",
       "file": "c005.ogg",
-      "durationSec": 3.912
+      "durationSec": 2.654
     },
     {
       "index": 6,
       "text": "Start with the breath for a few cycles.",
       "file": "c006.ogg",
-      "durationSec": 5.304
+      "durationSec": 3.942
     },
     {
       "index": 7,
@@ -59,13 +59,13 @@
       "index": 8,
       "text": "Now widen. Include sounds.",
       "file": "c008.ogg",
-      "durationSec": 6.768
+      "durationSec": 3.576
     },
     {
       "index": 9,
       "text": "Near. Far. Changing. Steady.",
       "file": "c009.ogg",
-      "durationSec": 9.984
+      "durationSec": 4.339
     },
     {
       "index": 10,
@@ -78,13 +78,13 @@
       "index": 11,
       "text": "Include sensations in the body.",
       "file": "c011.ogg",
-      "durationSec": 4.704
+      "durationSec": 3.939
     },
     {
       "index": 12,
       "text": "Contact points. Temperature. Soft pulse.",
       "file": "c012.ogg",
-      "durationSec": 9.144
+      "durationSec": 4.744
     },
     {
       "index": 13,
@@ -97,13 +97,13 @@
       "index": 14,
       "text": "Include the space of the room.",
       "file": "c014.ogg",
-      "durationSec": 4.32
+      "durationSec": 3.239
     },
     {
       "index": 15,
       "text": "Awareness like open sky.",
       "file": "c015.ogg",
-      "durationSec": 4.536
+      "durationSec": 3.291
     },
     {
       "index": 16,
@@ -116,19 +116,19 @@
       "index": 17,
       "text": "Thoughts may appear like weather.",
       "file": "c017.ogg",
-      "durationSec": 4.416
+      "durationSec": 3.354
     },
     {
       "index": 18,
       "text": "No need to chase or push them.",
       "file": "c018.ogg",
-      "durationSec": 4.536
+      "durationSec": 3.116
     },
     {
       "index": 19,
       "text": "Sky remains.",
       "file": "c019.ogg",
-      "durationSec": 3.624
+      "durationSec": 2.198
     },
     {
       "index": 20,
@@ -141,7 +141,7 @@
       "index": 21,
       "text": "Rest in this open field.",
       "file": "c021.ogg",
-      "durationSec": 4.392
+      "durationSec": 3.063
     },
     {
       "index": 22,
@@ -154,27 +154,31 @@
       "index": 23,
       "text": "Take one more easy breath.",
       "file": "c023.ogg",
-      "durationSec": 4.488
+      "durationSec": 2.528
     },
     {
       "index": 24,
       "text": "Wiggle the fingers.",
       "file": "c024.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.31
     },
     {
       "index": 25,
       "text": "When you are ready, open the eyes.",
       "file": "c025.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.642
     },
     {
       "index": 26,
       "text": "Carry a little of this with you.",
       "file": "c026.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.126
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }

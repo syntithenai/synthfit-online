@@ -4,61 +4,61 @@
   "edgeVoice": "en-GB-RyanNeural",
   "rate": "-42%",
   "pitch": "-12Hz",
-  "totalSec": 360,
+  "totalSec": 295,
   "chunks": [
     {
       "index": 0,
       "text": "Welcome.",
       "file": "c000.ogg",
-      "durationSec": 2.76
+      "durationSec": 1.496
     },
     {
       "index": 1,
       "text": "Find a comfortable seat, or lie down if that feels better.",
       "file": "c001.ogg",
-      "durationSec": 7.104
+      "durationSec": 6.021
     },
     {
       "index": 2,
       "text": "Let the hands rest.",
       "file": "c002.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.367
     },
     {
       "index": 3,
       "text": "Soften the eyes, or close them.",
       "file": "c003.ogg",
-      "durationSec": 4.896
+      "durationSec": 3.756
     },
     {
       "index": 4,
       "text": "Take a slow breath in.",
       "file": "c004.ogg",
-      "durationSec": 3.744
+      "durationSec": 2.654
     },
     {
       "index": 5,
       "text": "And a longer breath out.",
       "file": "c005.ogg",
-      "durationSec": 3.912
+      "durationSec": 2.664
     },
     {
       "index": 6,
       "text": "We will breathe in a simple box.",
       "file": "c006.ogg",
-      "durationSec": 4.752
+      "durationSec": 3.589
     },
     {
       "index": 7,
       "text": "In for four. Hold for four. Out for four. Hold for four.",
       "file": "c007.ogg",
-      "durationSec": 12.048
+      "durationSec": 7.301
     },
     {
       "index": 8,
       "text": "Stay gentle. Never strain.",
       "file": "c008.ogg",
-      "durationSec": 6.312
+      "durationSec": 3.824
     },
     {
       "index": 9,
@@ -71,25 +71,25 @@
       "index": 10,
       "text": "Inhale. Two. Three. Four.",
       "file": "c010.ogg",
-      "durationSec": 9.936
+      "durationSec": 3.818
     },
     {
       "index": 11,
       "text": "Hold. Two. Three. Four.",
       "file": "c011.ogg",
-      "durationSec": 9.672
+      "durationSec": 3.241
     },
     {
       "index": 12,
       "text": "Exhale. Two. Three. Four.",
       "file": "c012.ogg",
-      "durationSec": 9.888
+      "durationSec": 3.525
     },
     {
       "index": 13,
       "text": "Hold. Two. Three. Four.",
       "file": "c013.ogg",
-      "durationSec": 9.672
+      "durationSec": 3.576
     },
     {
       "index": 14,
@@ -102,25 +102,25 @@
       "index": 15,
       "text": "Again. Inhale.",
       "file": "c015.ogg",
-      "durationSec": 5.376
+      "durationSec": 2.716
     },
     {
       "index": 16,
       "text": "Hold.",
       "file": "c016.ogg",
-      "durationSec": 2.64
+      "durationSec": 1.378
     },
     {
       "index": 17,
       "text": "Exhale.",
       "file": "c017.ogg",
-      "durationSec": 2.856
+      "durationSec": 1.551
     },
     {
       "index": 18,
       "text": "Hold.",
       "file": "c018.ogg",
-      "durationSec": 2.64
+      "durationSec": 1.254
     },
     {
       "index": 19,
@@ -133,13 +133,13 @@
       "index": 20,
       "text": "Continue at your own count for a few rounds.",
       "file": "c020.ogg",
-      "durationSec": 5.88
+      "durationSec": 4.742
     },
     {
       "index": 21,
       "text": "If four is too long, use three.",
       "file": "c021.ogg",
-      "durationSec": 5.304
+      "durationSec": 3.992
     },
     {
       "index": 22,
@@ -152,31 +152,31 @@
       "index": 23,
       "text": "One more full box.",
       "file": "c023.ogg",
-      "durationSec": 3.888
+      "durationSec": 2.481
     },
     {
       "index": 24,
       "text": "Inhale.",
       "file": "c024.ogg",
-      "durationSec": 2.904
+      "durationSec": 1.438
     },
     {
       "index": 25,
       "text": "Hold.",
       "file": "c025.ogg",
-      "durationSec": 2.64
+      "durationSec": 1.036
     },
     {
       "index": 26,
       "text": "Exhale.",
       "file": "c026.ogg",
-      "durationSec": 2.856
+      "durationSec": 1.489
     },
     {
       "index": 27,
       "text": "Hold.",
       "file": "c027.ogg",
-      "durationSec": 2.64
+      "durationSec": 1.146
     },
     {
       "index": 28,
@@ -189,13 +189,13 @@
       "index": 29,
       "text": "Return to natural breath.",
       "file": "c029.ogg",
-      "durationSec": 4.416
+      "durationSec": 2.948
     },
     {
       "index": 30,
       "text": "Notice the quiet that follows.",
       "file": "c030.ogg",
-      "durationSec": 4.608
+      "durationSec": 3.412
     },
     {
       "index": 31,
@@ -208,7 +208,7 @@
       "index": 32,
       "text": "Rest here.",
       "file": "c032.ogg",
-      "durationSec": 2.928
+      "durationSec": 1.668
     },
     {
       "index": 33,
@@ -221,27 +221,31 @@
       "index": 34,
       "text": "Take one more easy breath.",
       "file": "c034.ogg",
-      "durationSec": 4.488
+      "durationSec": 3.242
     },
     {
       "index": 35,
       "text": "Wiggle the fingers.",
       "file": "c035.ogg",
-      "durationSec": 3.648
+      "durationSec": 2.247
     },
     {
       "index": 36,
       "text": "When you are ready, open the eyes.",
       "file": "c036.ogg",
-      "durationSec": 5.184
+      "durationSec": 3.762
     },
     {
       "index": 37,
       "text": "Carry a little of this with you.",
       "file": "c037.ogg",
-      "durationSec": 4.104
+      "durationSec": 3.168
     }
   ],
-  "engine": "edge",
-  "note": "edge-tts bake for practice pack; optional elevenlabs re-bake later"
+  "engine": "elevenlabs",
+  "elevenVoice": "JBFqnCBsd6RMkjVDRZzb",
+  "elevenLabel": "George",
+  "elevenSpeed": 0.7,
+  "atempo": 0.8,
+  "eqDb": 0.0
 }
