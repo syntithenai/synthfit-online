@@ -1,14 +1,19 @@
 {
   "version": 1,
-  "updated": "2026-10-11T00:00:00Z",
+  "updated": "2026-10-23T00:00:00Z",
   "apps": {
     "yoga": {
       "web": "https://yoga.synthfit.online/",
       "android": "https://play.google.com/store/apps/details?id=app.yogapp.practice",
-      "ios": null
+      "ios": "https://apps.apple.com/app/id6819889881"
     },
     "synthfit": {
       "web": "https://synthfit.online/",
+      "android": null,
+      "ios": null
+    },
+    "synthhealth": {
+      "web": "https://health.synthfit.online/",
       "android": null,
       "ios": null
     },
